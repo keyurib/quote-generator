@@ -1,5 +1,5 @@
-import QuoteQuest from "@/components/quote-quest";
+import LifeQuest from "@/components/life-quest";
 
 export default function Home() {
-  return <QuoteQuest />;
+  return <LifeQuest />;
 }

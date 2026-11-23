@@ -1,0 +1,924 @@
+{
+  "app": "Life Quest",
+  "contentVersion": "1.0.0",
+  "language": "en",
+  "contentNote": "All quote text, actions and reflection prompts in this file are original writing inspired by broad themes and section topics in the source book. They are not verbatim quotations.",
+  "sourceBook": {
+    "title": "1,000+ Little Things Happy, Successful People Do Differently",
+    "authors": [
+      "Marc Chernoff",
+      "Angel Chernoff"
+    ],
+    "editionYear": 2019
+  },
+  "categories": [
+    {
+      "id": "happiness",
+      "name": "Happiness",
+      "sourcePart": 1,
+      "sourceThemes": [
+        "gratitude",
+        "positive habits",
+        "noticing everyday moments",
+        "small actions that lift your mood"
+      ]
+    },
+    {
+      "id": "adversity",
+      "name": "Adversity",
+      "sourcePart": 2,
+      "sourceThemes": [
+        "letting go",
+        "resilience",
+        "second chances",
+        "learning through hard periods"
+      ]
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships",
+      "sourcePart": 3,
+      "sourceThemes": [
+        "mindful responses",
+        "kindness",
+        "friendship",
+        "honesty",
+        "healthy boundaries"
+      ]
+    },
+    {
+      "id": "self-love",
+      "name": "Self-Love",
+      "sourcePart": 4,
+      "sourceThemes": [
+        "self-worth",
+        "self-acceptance",
+        "inner dialogue",
+        "personal identity",
+        "choices your future self may value"
+      ]
+    },
+    {
+      "id": "passion-growth",
+      "name": "Passion & Growth",
+      "sourcePart": 5,
+      "sourceThemes": [
+        "curiosity",
+        "learning",
+        "dreams",
+        "courage to act",
+        "not waiting for approval"
+      ]
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "sourcePart": 6,
+      "sourceThemes": [
+        "starting imperfectly",
+        "morning choices",
+        "focus",
+        "priorities",
+        "productive habits"
+      ]
+    },
+    {
+      "id": "goals-success",
+      "name": "Goals & Success",
+      "sourcePart": 7,
+      "sourceThemes": [
+        "clear goals",
+        "daily choices",
+        "consistent action",
+        "30-day challenges",
+        "review and reflection"
+      ]
+    },
+    {
+      "id": "simplicity",
+      "name": "Simplicity",
+      "sourcePart": 8,
+      "sourceThemes": [
+        "priorities",
+        "human limitations",
+        "simple truths",
+        "achievable actions",
+        "life lessons"
+      ]
+    },
+    {
+      "id": "inspiration",
+      "name": "Inspiration",
+      "sourcePart": 9,
+      "sourceThemes": [
+        "perspective",
+        "leaving the past",
+        "life lessons",
+        "meaningful experiences",
+        "regret and reflection"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "happiness-01",
+      "categoryId": "happiness",
+      "category": "Happiness",
+      "title": "Notice what is already good",
+      "quote": "Happiness becomes easier to notice when you stop asking the day to be perfect and start paying attention to what is quietly working.",
+      "action": "Name three things that are okay in your life today, even if the day is difficult.",
+      "reflection": "What good thing have I been overlooking because it feels ordinary?",
+      "sourcePart": 1,
+      "sourceThemes": [
+        "gratitude",
+        "positive habits",
+        "noticing everyday moments",
+        "small actions that lift your mood"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "happiness-02",
+      "categoryId": "happiness",
+      "category": "Happiness",
+      "title": "Make room for a better mood",
+      "quote": "You may not be able to choose every feeling that arrives, but you can choose one small action that gives your mind a kinder place to land.",
+      "action": "Take a short walk, stretch, or play a song that helps you reset.",
+      "reflection": "Which small action reliably helps me feel more like myself?",
+      "sourcePart": 1,
+      "sourceThemes": [
+        "gratitude",
+        "positive habits",
+        "noticing everyday moments",
+        "small actions that lift your mood"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "happiness-03",
+      "categoryId": "happiness",
+      "category": "Happiness",
+      "title": "Let gratitude be specific",
+      "quote": "A vague 'I should be grateful' can feel like pressure. A specific moment of appreciation can feel real.",
+      "action": "Write down one person, one moment, and one ability you appreciated today.",
+      "reflection": "What exactly happened that made this part of my day meaningful?",
+      "sourcePart": 1,
+      "sourceThemes": [
+        "gratitude",
+        "positive habits",
+        "noticing everyday moments",
+        "small actions that lift your mood"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "happiness-04",
+      "categoryId": "happiness",
+      "category": "Happiness",
+      "title": "Stop postponing joy",
+      "quote": "A good life is not something that begins after every task is finished. Small moments of enjoyment can belong inside an ordinary day.",
+      "action": "Make ten minutes for something you enjoy without trying to earn it first.",
+      "reflection": "What am I waiting to finish before I allow myself a little joy?",
+      "sourcePart": 1,
+      "sourceThemes": [
+        "gratitude",
+        "positive habits",
+        "noticing everyday moments",
+        "small actions that lift your mood"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "happiness-05",
+      "categoryId": "happiness",
+      "category": "Happiness",
+      "title": "Celebrate the small win",
+      "quote": "Progress often arrives quietly. If you only celebrate major milestones, you miss most of the evidence that you are moving forward.",
+      "action": "Record one small thing you handled well today.",
+      "reflection": "What would I acknowledge if I treated small progress as real progress?",
+      "sourcePart": 1,
+      "sourceThemes": [
+        "gratitude",
+        "positive habits",
+        "noticing everyday moments",
+        "small actions that lift your mood"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "adversity-01",
+      "categoryId": "adversity",
+      "category": "Adversity",
+      "title": "Separate the event from your identity",
+      "quote": "A difficult chapter can shape your experience without defining the whole person you are becoming.",
+      "action": "Write one sentence describing what happened, then another describing what it does not say about you.",
+      "reflection": "What label have I placed on myself because of one difficult experience?",
+      "sourcePart": 2,
+      "sourceThemes": [
+        "letting go",
+        "resilience",
+        "second chances",
+        "learning through hard periods"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "adversity-02",
+      "categoryId": "adversity",
+      "category": "Adversity",
+      "title": "Choose the next manageable step",
+      "quote": "When the whole road feels uncertain, you do not need a complete map. You need a next step that is possible today.",
+      "action": "Identify one action that is within your control and do it for fifteen minutes.",
+      "reflection": "What is the smallest useful step I can take from where I am?",
+      "sourcePart": 2,
+      "sourceThemes": [
+        "letting go",
+        "resilience",
+        "second chances",
+        "learning through hard periods"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "adversity-03",
+      "categoryId": "adversity",
+      "category": "Adversity",
+      "title": "Release what cannot be repaired today",
+      "quote": "Replaying an unchangeable moment consumes energy that could support the life you are living now.",
+      "action": "Notice one thought loop about the past; gently redirect your attention to a present task.",
+      "reflection": "What am I still trying to solve that may need acceptance rather than another replay?",
+      "sourcePart": 2,
+      "sourceThemes": [
+        "letting go",
+        "resilience",
+        "second chances",
+        "learning through hard periods"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "adversity-04",
+      "categoryId": "adversity",
+      "category": "Adversity",
+      "title": "Let a setback teach, not sentence",
+      "quote": "A setback can offer information about what needs to change. It does not have to become a verdict on your ability.",
+      "action": "Write down one lesson and one adjustment you can test next time.",
+      "reflection": "What can this experience teach me without making me feel smaller?",
+      "sourcePart": 2,
+      "sourceThemes": [
+        "letting go",
+        "resilience",
+        "second chances",
+        "learning through hard periods"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "adversity-05",
+      "categoryId": "adversity",
+      "category": "Adversity",
+      "title": "Allow a fresh start to be ordinary",
+      "quote": "A second chance does not always arrive with a dramatic turning point. Sometimes it begins with a quieter decision to try again.",
+      "action": "Restart one habit or task with a version small enough to complete today.",
+      "reflection": "What could beginning again look like if I made it simple?",
+      "sourcePart": 2,
+      "sourceThemes": [
+        "letting go",
+        "resilience",
+        "second chances",
+        "learning through hard periods"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "relationships-01",
+      "categoryId": "relationships",
+      "category": "Relationships",
+      "title": "Listen to understand, not to win",
+      "quote": "A conversation changes when your first goal is to understand the other person rather than prepare your defence.",
+      "action": "In your next conversation, ask one genuine follow-up question before offering your view.",
+      "reflection": "What might I hear if I pause long enough to understand?",
+      "sourcePart": 3,
+      "sourceThemes": [
+        "mindful responses",
+        "kindness",
+        "friendship",
+        "honesty",
+        "healthy boundaries"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "relationships-02",
+      "categoryId": "relationships",
+      "category": "Relationships",
+      "title": "Make care visible",
+      "quote": "People cannot always infer affection from good intentions. Small, thoughtful actions make care easier to feel.",
+      "action": "Send a sincere message thanking someone for one specific thing they did.",
+      "reflection": "Who might feel appreciated if I expressed my gratitude clearly?",
+      "sourcePart": 3,
+      "sourceThemes": [
+        "mindful responses",
+        "kindness",
+        "friendship",
+        "honesty",
+        "healthy boundaries"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "relationships-03",
+      "categoryId": "relationships",
+      "category": "Relationships",
+      "title": "Be honest with kindness",
+      "quote": "Avoiding an uncomfortable truth can create more confusion than a respectful conversation would.",
+      "action": "Say one thing you need clearly, using calm and specific language.",
+      "reflection": "Where would honest communication reduce unnecessary guessing?",
+      "sourcePart": 3,
+      "sourceThemes": [
+        "mindful responses",
+        "kindness",
+        "friendship",
+        "honesty",
+        "healthy boundaries"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "relationships-04",
+      "categoryId": "relationships",
+      "category": "Relationships",
+      "title": "Respect the boundary",
+      "quote": "A healthy relationship leaves room for two people to have needs, limits, and separate points of view.",
+      "action": "Identify one boundary you need to communicate or honour this week.",
+      "reflection": "Which limit would help me show up with more patience and respect?",
+      "sourcePart": 3,
+      "sourceThemes": [
+        "mindful responses",
+        "kindness",
+        "friendship",
+        "honesty",
+        "healthy boundaries"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "relationships-05",
+      "categoryId": "relationships",
+      "category": "Relationships",
+      "title": "Choose consistency over performance",
+      "quote": "Trust grows through repeated actions that match what people say, not through occasional grand gestures.",
+      "action": "Follow through on one small promise you have made to someone.",
+      "reflection": "What promise can I keep today to make trust stronger?",
+      "sourcePart": 3,
+      "sourceThemes": [
+        "mindful responses",
+        "kindness",
+        "friendship",
+        "honesty",
+        "healthy boundaries"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "self-love-01",
+      "categoryId": "self-love",
+      "category": "Self-Love",
+      "title": "Speak to yourself with respect",
+      "quote": "Your inner voice is part of the environment you live in every day. It can challenge you without humiliating you.",
+      "action": "Rewrite one harsh thought as something honest, fair, and encouraging.",
+      "reflection": "Would I use these words with someone I care about?",
+      "sourcePart": 4,
+      "sourceThemes": [
+        "self-worth",
+        "self-acceptance",
+        "inner dialogue",
+        "personal identity",
+        "choices your future self may value"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "self-love-02",
+      "categoryId": "self-love",
+      "category": "Self-Love",
+      "title": "You are allowed to be a work in progress",
+      "quote": "Being unfinished is not evidence that you are failing. It is a normal condition of learning and living.",
+      "action": "Name one area where you are learning, then give yourself credit for showing up.",
+      "reflection": "Where am I demanding a finished version of myself too soon?",
+      "sourcePart": 4,
+      "sourceThemes": [
+        "self-worth",
+        "self-acceptance",
+        "inner dialogue",
+        "personal identity",
+        "choices your future self may value"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "self-love-03",
+      "categoryId": "self-love",
+      "category": "Self-Love",
+      "title": "Stop measuring your worth by comparison",
+      "quote": "Someone else's progress can inspire you, but it cannot provide a fair measurement of your own path.",
+      "action": "Mute one comparison trigger and define one personal measure of progress.",
+      "reflection": "What matters to me even when nobody else can see it?",
+      "sourcePart": 4,
+      "sourceThemes": [
+        "self-worth",
+        "self-acceptance",
+        "inner dialogue",
+        "personal identity",
+        "choices your future self may value"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "self-love-04",
+      "categoryId": "self-love",
+      "category": "Self-Love",
+      "title": "Keep a promise to yourself",
+      "quote": "Self-trust grows when your actions show that your needs and intentions deserve attention.",
+      "action": "Choose one small promise you can realistically keep today.",
+      "reflection": "What would help me trust myself a little more?",
+      "sourcePart": 4,
+      "sourceThemes": [
+        "self-worth",
+        "self-acceptance",
+        "inner dialogue",
+        "personal identity",
+        "choices your future self may value"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "self-love-05",
+      "categoryId": "self-love",
+      "category": "Self-Love",
+      "title": "Make space for your real preferences",
+      "quote": "You do not need to perform a personality that earns universal approval. Honest preferences help you build a life that feels like yours.",
+      "action": "Make one low-stakes choice based on what you genuinely prefer.",
+      "reflection": "Which choice would I make if I were not trying to impress anyone?",
+      "sourcePart": 4,
+      "sourceThemes": [
+        "self-worth",
+        "self-acceptance",
+        "inner dialogue",
+        "personal identity",
+        "choices your future self may value"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "passion-growth-01",
+      "categoryId": "passion-growth",
+      "category": "Passion & Growth",
+      "title": "Begin before confidence arrives",
+      "quote": "Confidence often follows evidence. Give yourself a chance to gather that evidence by starting while you still feel uncertain.",
+      "action": "Spend twenty minutes on a goal you have been waiting to feel ready for.",
+      "reflection": "What could I learn by beginning before I feel fully prepared?",
+      "sourcePart": 5,
+      "sourceThemes": [
+        "curiosity",
+        "learning",
+        "dreams",
+        "courage to act",
+        "not waiting for approval"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "passion-growth-02",
+      "categoryId": "passion-growth",
+      "category": "Passion & Growth",
+      "title": "Let curiosity lead",
+      "quote": "Curiosity turns uncertainty into a question worth exploring and makes learning feel less like a test.",
+      "action": "Ask one question about a topic or skill you have been avoiding.",
+      "reflection": "What am I interested in that I have not given enough attention?",
+      "sourcePart": 5,
+      "sourceThemes": [
+        "curiosity",
+        "learning",
+        "dreams",
+        "courage to act",
+        "not waiting for approval"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "passion-growth-03",
+      "categoryId": "passion-growth",
+      "category": "Passion & Growth",
+      "title": "Choose growth over approval",
+      "quote": "A decision that matters to you may not make sense to everyone around you. You can listen to feedback without handing over your direction.",
+      "action": "Take one small step toward a goal that reflects your own values.",
+      "reflection": "Whose approval am I waiting for, and what is that delay costing me?",
+      "sourcePart": 5,
+      "sourceThemes": [
+        "curiosity",
+        "learning",
+        "dreams",
+        "courage to act",
+        "not waiting for approval"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "passion-growth-04",
+      "categoryId": "passion-growth",
+      "category": "Passion & Growth",
+      "title": "Practise in public, improve in private",
+      "quote": "You do not need to hide every early attempt. Sharing work in progress can create feedback, momentum, and connection.",
+      "action": "Share a draft, ask for feedback, or show someone what you are learning.",
+      "reflection": "What would I attempt if being imperfect were not embarrassing?",
+      "sourcePart": 5,
+      "sourceThemes": [
+        "curiosity",
+        "learning",
+        "dreams",
+        "courage to act",
+        "not waiting for approval"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "passion-growth-05",
+      "categoryId": "passion-growth",
+      "category": "Passion & Growth",
+      "title": "Protect time for what energises you",
+      "quote": "A meaningful interest can fade when it only receives whatever time is left over.",
+      "action": "Reserve one focused block this week for an activity that matters to you.",
+      "reflection": "What deserves a place in my calendar rather than just my intentions?",
+      "sourcePart": 5,
+      "sourceThemes": [
+        "curiosity",
+        "learning",
+        "dreams",
+        "courage to act",
+        "not waiting for approval"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "productivity-01",
+      "categoryId": "productivity",
+      "category": "Productivity",
+      "title": "Make the first step smaller",
+      "quote": "A task feels less intimidating when you define the first visible action instead of staring at the entire outcome.",
+      "action": "Write the next physical action for one task and work on it for ten minutes.",
+      "reflection": "What is the first action, not the whole project?",
+      "sourcePart": 6,
+      "sourceThemes": [
+        "starting imperfectly",
+        "morning choices",
+        "focus",
+        "priorities",
+        "productive habits"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "productivity-02",
+      "categoryId": "productivity",
+      "category": "Productivity",
+      "title": "Give your attention a destination",
+      "quote": "A busy day can still leave important work untouched. Decide what deserves your clearest attention before distractions decide for you.",
+      "action": "Choose one priority for the next work block and silence one distraction.",
+      "reflection": "What deserves my best attention today?",
+      "sourcePart": 6,
+      "sourceThemes": [
+        "starting imperfectly",
+        "morning choices",
+        "focus",
+        "priorities",
+        "productive habits"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "productivity-03",
+      "categoryId": "productivity",
+      "category": "Productivity",
+      "title": "Finish one loop before opening another",
+      "quote": "Unfinished tasks compete for attention. Closing a small loop can create clarity and momentum.",
+      "action": "Complete or deliberately schedule one task that has been lingering.",
+      "reflection": "Which open loop is taking up more mental space than it deserves?",
+      "sourcePart": 6,
+      "sourceThemes": [
+        "starting imperfectly",
+        "morning choices",
+        "focus",
+        "priorities",
+        "productive habits"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "productivity-04",
+      "categoryId": "productivity",
+      "category": "Productivity",
+      "title": "Build a routine that supports you",
+      "quote": "A useful routine reduces repeated decisions; it should make your day easier, not become another standard to fail.",
+      "action": "Choose one simple anchor habit for the start or end of your day.",
+      "reflection": "Which repeated decision could I make easier with a small routine?",
+      "sourcePart": 6,
+      "sourceThemes": [
+        "starting imperfectly",
+        "morning choices",
+        "focus",
+        "priorities",
+        "productive habits"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "productivity-05",
+      "categoryId": "productivity",
+      "category": "Productivity",
+      "title": "Rest is part of sustainable effort",
+      "quote": "Focus is not an endless resource. Pauses can help you return with better attention and steadier energy.",
+      "action": "Take a deliberate five-minute break away from your screen.",
+      "reflection": "What signals tell me I need a pause before I push harder?",
+      "sourcePart": 6,
+      "sourceThemes": [
+        "starting imperfectly",
+        "morning choices",
+        "focus",
+        "priorities",
+        "productive habits"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "goals-success-01",
+      "categoryId": "goals-success",
+      "category": "Goals & Success",
+      "title": "Define success in your own terms",
+      "quote": "A goal becomes more meaningful when it reflects the life you want, not only a standard you inherited.",
+      "action": "Write one sentence describing what success in one area means to you.",
+      "reflection": "Whose definition of success have I been following?",
+      "sourcePart": 7,
+      "sourceThemes": [
+        "clear goals",
+        "daily choices",
+        "consistent action",
+        "30-day challenges",
+        "review and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "goals-success-02",
+      "categoryId": "goals-success",
+      "category": "Goals & Success",
+      "title": "Turn ambition into a repeatable action",
+      "quote": "A large goal needs a small behaviour that can survive an ordinary Tuesday.",
+      "action": "Choose one repeatable action that moves a current goal forward.",
+      "reflection": "What can I do regularly, even when motivation is low?",
+      "sourcePart": 7,
+      "sourceThemes": [
+        "clear goals",
+        "daily choices",
+        "consistent action",
+        "30-day challenges",
+        "review and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "goals-success-03",
+      "categoryId": "goals-success",
+      "category": "Goals & Success",
+      "title": "Measure what helps you learn",
+      "quote": "Tracking is useful when it reveals patterns and informs your next decision, not when it becomes a judgement of your worth.",
+      "action": "Choose one simple indicator to review weekly for a goal.",
+      "reflection": "What evidence would tell me that my approach is working?",
+      "sourcePart": 7,
+      "sourceThemes": [
+        "clear goals",
+        "daily choices",
+        "consistent action",
+        "30-day challenges",
+        "review and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "goals-success-04",
+      "categoryId": "goals-success",
+      "category": "Goals & Success",
+      "title": "Make a short commitment",
+      "quote": "A focused challenge can turn a vague intention into a practical experiment.",
+      "action": "Choose one habit to practise for the next seven days and define when it will happen.",
+      "reflection": "What would I like to test for one week rather than promise forever?",
+      "sourcePart": 7,
+      "sourceThemes": [
+        "clear goals",
+        "daily choices",
+        "consistent action",
+        "30-day challenges",
+        "review and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "goals-success-05",
+      "categoryId": "goals-success",
+      "category": "Goals & Success",
+      "title": "Review, then adjust",
+      "quote": "A plan is a tool, not a contract with the past. Reviewing it helps you respond to what you now know.",
+      "action": "Spend ten minutes reviewing what worked, what did not, and one adjustment.",
+      "reflection": "What should I continue, change, or stop next week?",
+      "sourcePart": 7,
+      "sourceThemes": [
+        "clear goals",
+        "daily choices",
+        "consistent action",
+        "30-day challenges",
+        "review and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "simplicity-01",
+      "categoryId": "simplicity",
+      "category": "Simplicity",
+      "title": "Remove one unnecessary layer",
+      "quote": "Clarity often comes from removing a demand, step, or expectation rather than adding another system.",
+      "action": "Simplify one small part of your day, workspace, or to-do list.",
+      "reflection": "What am I making complicated that could be simpler?",
+      "sourcePart": 8,
+      "sourceThemes": [
+        "priorities",
+        "human limitations",
+        "simple truths",
+        "achievable actions",
+        "life lessons"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "simplicity-02",
+      "categoryId": "simplicity",
+      "category": "Simplicity",
+      "title": "Let enough be enough",
+      "quote": "Without a sense of enough, every achievement can become a reason to chase the next one without pausing.",
+      "action": "Name one area where what you have or have done is enough for today.",
+      "reflection": "Where could I replace constant striving with appreciation?",
+      "sourcePart": 8,
+      "sourceThemes": [
+        "priorities",
+        "human limitations",
+        "simple truths",
+        "achievable actions",
+        "life lessons"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "simplicity-03",
+      "categoryId": "simplicity",
+      "category": "Simplicity",
+      "title": "Make room for the essential",
+      "quote": "When everything is urgent, the important things become difficult to recognise.",
+      "action": "Choose the three things that matter most today and let the rest wait if possible.",
+      "reflection": "What deserves space because it matters, not because it is loud?",
+      "sourcePart": 8,
+      "sourceThemes": [
+        "priorities",
+        "human limitations",
+        "simple truths",
+        "achievable actions",
+        "life lessons"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "simplicity-04",
+      "categoryId": "simplicity",
+      "category": "Simplicity",
+      "title": "Accept your human pace",
+      "quote": "You have limits, changing energy, and competing responsibilities. Planning with those realities is wiser than pretending they do not exist.",
+      "action": "Reduce one unrealistic expectation in your current plan.",
+      "reflection": "What would a humane version of this plan look like?",
+      "sourcePart": 8,
+      "sourceThemes": [
+        "priorities",
+        "human limitations",
+        "simple truths",
+        "achievable actions",
+        "life lessons"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "simplicity-05",
+      "categoryId": "simplicity",
+      "category": "Simplicity",
+      "title": "Choose presence over constant input",
+      "quote": "More information does not always create more understanding. Sometimes attention deepens when you stop adding input.",
+      "action": "Spend ten minutes doing one ordinary activity without a screen or multitasking.",
+      "reflection": "What do I notice when I give one moment my full attention?",
+      "sourcePart": 8,
+      "sourceThemes": [
+        "priorities",
+        "human limitations",
+        "simple truths",
+        "achievable actions",
+        "life lessons"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "inspiration-01",
+      "categoryId": "inspiration",
+      "category": "Inspiration",
+      "title": "Let today count",
+      "quote": "A meaningful life is built in ordinary days, not only in the milestones you plan to remember.",
+      "action": "Do one small thing today that reflects the person you want to be.",
+      "reflection": "What would make today feel well-lived, even if it is not remarkable?",
+      "sourcePart": 9,
+      "sourceThemes": [
+        "perspective",
+        "leaving the past",
+        "life lessons",
+        "meaningful experiences",
+        "regret and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "inspiration-02",
+      "categoryId": "inspiration",
+      "category": "Inspiration",
+      "title": "Carry the lesson, not the weight",
+      "quote": "Remembering the past can help you grow; carrying every old judgement forward can keep you from seeing what is possible now.",
+      "action": "Write down one lesson from a past experience and one belief you are ready to release.",
+      "reflection": "What can I keep from this memory without continuing to carry its burden?",
+      "sourcePart": 9,
+      "sourceThemes": [
+        "perspective",
+        "leaving the past",
+        "life lessons",
+        "meaningful experiences",
+        "regret and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "inspiration-03",
+      "categoryId": "inspiration",
+      "category": "Inspiration",
+      "title": "Notice the people who make life richer",
+      "quote": "Meaning is often found in shared moments, everyday kindness, and relationships that help us feel seen.",
+      "action": "Give someone your undivided attention for a few minutes today.",
+      "reflection": "Who has made my life better in a way I have not acknowledged?",
+      "sourcePart": 9,
+      "sourceThemes": [
+        "perspective",
+        "leaving the past",
+        "life lessons",
+        "meaningful experiences",
+        "regret and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "inspiration-04",
+      "categoryId": "inspiration",
+      "category": "Inspiration",
+      "title": "Make a memory on purpose",
+      "quote": "Waiting for a special occasion can make ordinary opportunities pass unnoticed.",
+      "action": "Create one small moment worth remembering with someone or by yourself.",
+      "reflection": "What simple experience would I be glad I made time for?",
+      "sourcePart": 9,
+      "sourceThemes": [
+        "perspective",
+        "leaving the past",
+        "life lessons",
+        "meaningful experiences",
+        "regret and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    },
+    {
+      "id": "inspiration-05",
+      "categoryId": "inspiration",
+      "category": "Inspiration",
+      "title": "Live closer to your values",
+      "quote": "Inspiration becomes practical when your everyday choices begin to reflect what you say matters.",
+      "action": "Choose one value and express it through a concrete action today.",
+      "reflection": "If someone watched my choices today, which values would they see?",
+      "sourcePart": 9,
+      "sourceThemes": [
+        "perspective",
+        "leaving the past",
+        "life lessons",
+        "meaningful experiences",
+        "regret and reflection"
+      ],
+      "attribution": "Original reflection inspired by themes in the source book; not a quotation from the authors."
+    }
+  ]
+}

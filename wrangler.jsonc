@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "quote-generator",
+  "name": "life-quest",
   "compatibility_date": "2026-11-01",
   // Serve the static export produced by `npm run build`.
   "assets": {
