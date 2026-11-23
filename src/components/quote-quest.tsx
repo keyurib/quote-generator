@@ -578,6 +578,12 @@ export default function QuoteQuest() {
           <Legend k="S" label="SHARE" />
           <Legend k="I" label="BAG" />
           <Legend k="M" label="MUTE" />
+          <a
+            href="https://100days.keyurib.workers.dev/#quote-generator"
+            className="w-full pt-2 text-center text-muted-foreground underline-offset-4 hover:text-primary hover:underline"
+          >
+            ◀ 100 DAYS · DAY 001
+          </a>
         </footer>
       </main>
     </div>

@@ -2,6 +2,10 @@
 
 An 8-bit random quote generator built with Next.js and [8bitcn/ui](https://www.8bitcn.com) components.
 
+**▶ Play it live: https://quote-generator.keyurib.workers.dev**
+
+Part of my [100 Days](https://100days.keyurib.workers.dev) series of experimental projects.
+
 - 45 quotes across 5 worlds (Wisdom, Courage, Code, Humor, Life), no repeats until a world is exhausted
 - Typewriter reveal, pixel-art author avatars, chiptune sound effects
 - XP / levels, a "Dex" of quotes seen, and a 12-slot inventory of favorites (saved in the browser)
